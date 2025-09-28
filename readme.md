@@ -1,6 +1,6 @@
 # 🔐 RFID Access Control System with NeoPixels, LCD & Buzzer
 
-This is the code of my safe project.
+This is the code of my homemade safe project.
  
 This project implements a simple **RFID-based access control system** using a microcontroller (e.g., Raspberry Pi Pico), an MFRC522 RFID reader, an I2C LCD display, a NeoPixel LED ring, a buzzer, and a relay to control external devices like doors or lights.
 
